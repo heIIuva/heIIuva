@@ -9,7 +9,7 @@
 
 - all of my projects are available at the github page you are currently at
 
-<h3 align="left">Connect with me: **t.me/iwannadielit, presenceaura@gmail.com**</h3>
+<h3 align="left">Connect with me: t.me/iwannadielit, presenceaura@gmail.com</h3>
 <p align="left">
 </p>
 
