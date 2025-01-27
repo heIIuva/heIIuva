@@ -7,7 +7,7 @@
 
 - currently learning **SwiftUI, Combine**
 
-- all of my projects are available at [GitHub.com/heIIuva](GitHub.com/heIIuva)
+- all of my projects are available at [GitHub.com/heIIuva](github.com/heIIuva)
 
 - reach me on **t.me/iwannadielit, presenceaura@gmail.com**
 
