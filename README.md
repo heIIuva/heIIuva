@@ -1,5 +1,3 @@
-# aboutme-
-
 <h1 align="center">👋, I'm Roman</h1>
 <h3 align="center">I'm an iOS developer</h3>
 
