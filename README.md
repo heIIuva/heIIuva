@@ -1,13 +1,13 @@
 # aboutme-
 
-<h1 align="center">👋, I'm roman</h1>
-<h3 align="center">iOS developer from Msc</h3>
+<h1 align="center">👋, I'm Roman</h1>
+<h3 align="center">I'man iOS developer</h3>
 
 - currently working on [TravelSchedule](https://github.com/heIIuva/TravelSchedule)
 
 - currently learning **SwiftUI, Combine**
 
-- all of my projects are available at [GitHub.com/heIIuva](github.com/heIIuva)
+- all of my projects are available at the github page you are currently at
 
 - reach me on **t.me/iwannadielit, presenceaura@gmail.com**
 
