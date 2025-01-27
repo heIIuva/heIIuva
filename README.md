@@ -1,7 +1,7 @@
 # aboutme-
 
 <h1 align="center">👋, I'm Roman</h1>
-<h3 align="center">I'man iOS developer</h3>
+<h3 align="center">I'm an iOS developer</h3>
 
 - currently working on [TravelSchedule](https://github.com/heIIuva/TravelSchedule)
 
@@ -9,9 +9,7 @@
 
 - all of my projects are available at the github page you are currently at
 
-- reach me on **t.me/iwannadielit, presenceaura@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **t.me/iwannadielit, presenceaura@gmail.com**</h3>
 <p align="left">
 </p>
 
