@@ -1,7 +1,7 @@
 <h1 align="center">👋, I'm Roman</h1>
 <h3 align="center">I'm an iOS developer</h3>
 
-- currently working on [TravelSchedule](https://github.com/heIIuva/TravelSchedule)
+- currently working on [NFTMarketplace](https://github.com/heIIuva/FakeNFT)
 
 - currently learning **SwiftUI, Combine**
 
